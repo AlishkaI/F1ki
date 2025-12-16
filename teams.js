@@ -7,7 +7,7 @@ const teams = [
   {    name: "Haas",            img: "images/teams/haas.jpg",        link: "https://en.wikipedia.org/wiki/Haas_F1"             },
   {    name: "Alpine",          img: "images/teams/alpine.jpg",      link: "https://en.wikipedia.org/wiki/Alpine_F1"           },
   {    name: "Williams",        img: "images/teams/williams.jpg",    link: "https://en.wikipedia.org/wiki/Williams_F1"         },
-  {    name: "Audi",            img: "images/teams/audi.jpg",        link: "https://en.wikipedia.org/wiki/Audi_F1"             },
+  {    name: "Racing bulls",    img: "images/teams/bulls.jpg",       link: "https://en.wikipedia.org/wiki/racing_bulls"        },
   {    name: "Cadillac",        img: "images/teams/cadillac.jpg",    link: "https://en.wikipedia.org/wiki/Cadillac_F1"         }, 
 ]
 
@@ -29,4 +29,5 @@ if (teamsGrid) {
 
     teamsGrid.appendChild(card);
   });
+
 }
