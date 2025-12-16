@@ -29,5 +29,4 @@ if (teamsGrid) {
 
     teamsGrid.appendChild(card);
   });
-
 }
