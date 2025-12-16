@@ -613,4 +613,37 @@ a:hover {
   height: 150px; /* Фиксированная высота для всех логотипов */
   object-fit: contain; /* Картинка впишется без искажений */
   margin-bottom: 10px;
+
+}
+
+
+.history-container {
+  max-width: 900px;          /* ограничиваем ширину */
+  margin: 60px auto;         /* центрируем */
+  padding: 0 20px;
+  color: #111;
+  line-height: 1.7;
+  font-family: 'Arial', sans-serif;
+}
+
+.history-container h1 {
+  font-size: 42px;
+  margin-bottom: 40px;
+  border-bottom: 4px solid #e10600; /* F1 красный */
+  padding-bottom: 10px;
+}
+
+.history-section {
+  margin-bottom: 40px;
+}
+
+.history-section h2 {
+  font-size: 26px;
+  margin-bottom: 10px;
+  color: #e10600;
+}
+
+.history-section p {
+  font-size: 17px;
+  color: #222;
 }
